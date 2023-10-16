@@ -1,3 +1,6 @@
+{
+  "author": "Parsa Majdol Hosseini"
+}
 Server.js -> containing server configurations to listen to the HTTP requests and route the requests
 userRouter and empRouter both created to route the requests received using express.Router() and send appropriate responses
 userRouter -> /api/v1/user/...
